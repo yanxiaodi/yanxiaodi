@@ -16,6 +16,6 @@
 
 - 🔭 I’m currently working in New Zealand.
 - 🌱 I’m currently learning Azure, .NET Core, Python, etc
-- 😄 I'm a Microsoft MVP.
+- 😄 Coding is Fun!
 
 Mostly working on .NET Core, Azure, Xamarin, etc.
