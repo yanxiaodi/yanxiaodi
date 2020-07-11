@@ -18,4 +18,4 @@
 - 🌱 I’m currently learning Azure, .NET Core, Python, etc
 - 😄 Coding is Fun!
 
-Mostly working on .NET Core, Azure, Xamarin, etc.
+Mostly working on .NET Core, Azure, UWP, WPF, Xamarin, etc.
