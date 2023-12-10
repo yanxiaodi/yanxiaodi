@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning Azure, Python, .NET Core.
 - 👯 I’m looking to collaborate on .NET Core, Azure
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about .NET, UWP, Xamarin
+- 💬 Ask me about .NET, .NET Core, Azure
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
@@ -18,4 +18,4 @@
 - 🌱 I’m currently learning Azure, .NET Core, Python, etc
 - 😄 Coding is Fun!
 
-Mostly working on .NET Core, Azure, UWP, WPF, Xamarin, etc.
+Mostly working on .NET Core and ASP.NET Core.
